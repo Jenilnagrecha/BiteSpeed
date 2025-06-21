@@ -1,0 +1,8 @@
+com\task\BiteSpeed\dto\ContactRequestDTO.class
+com\task\BiteSpeed\respository\ContactRepository.class
+com\task\BiteSpeed\services\ContactService.class
+com\task\BiteSpeed\enums\LinkPrecedence.class
+com\task\BiteSpeed\BiteSpeedApplication.class
+com\task\BiteSpeed\controller\ContactController.class
+com\task\BiteSpeed\model\Contact.class
+com\task\BiteSpeed\dto\ContactResponseDTO.class
